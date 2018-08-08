@@ -10,7 +10,7 @@ fun main (args:Array<String>) {
 
     //To allow nulls, we can declare a variable as nullable string, written String?
     var name: String?
-    name = "Tanushka"
+    name = "Tanushka Bandara"
 //    name = null
 
     // !! = should have a value, cannot be null. An explicit call to throw NullPointerException()
